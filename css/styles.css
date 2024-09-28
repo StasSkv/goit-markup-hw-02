@@ -21,7 +21,7 @@ a {
     color: #4d5ae5;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -31,7 +31,7 @@ a {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -43,6 +43,10 @@ a {
 }
 
 .navigation-studio:hover {
+    color: #404bbf;
+}
+
+.navigation-studio:focus {
     color: #404bbf;
 }
 
@@ -65,6 +69,10 @@ a {
 }
 
 .adres-to:hover {
+    color: #404bbf;
+}
+
+.adres-to:focus {
     color: #404bbf;
 }
 
@@ -94,12 +102,15 @@ a {
     font-size: 16px;
     line-height: 1.5;
     background-color: #4d5ae5;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     border: none;
     cursor: pointer;
 }
 
 .servis-to:hover {
+    background-color: #404bbf;
+}
+
+.servis-to:focus {
     background-color: #404bbf;
 }
 
@@ -127,6 +138,10 @@ a {
 
 .our-team {
     background-color: #f4f4fd;
+}
+
+.our-team-card {
+    background-color: #FFFFFF;
 }
 
 .end {

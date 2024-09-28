@@ -36,24 +36,6 @@ a {
     text-transform: uppercase;
 }
 
-.navigation-studio {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 16px;
-}
-
-.navigation-studio:hover {
-    color: #404bbf;
-}
-
-.navigation-studio:focus {
-    color: #404bbf;
-}
-
-.navigation-studio:active {
-    color: #404bbf;
-}
-
 .navigation {
     color: #2e2f42;
     font-weight: 500;
@@ -61,6 +43,10 @@ a {
 }
 
 .navigation:hover {
+    color: #404bbf;
+}
+
+.navigation:focus {
     color: #404bbf;
 }
 
